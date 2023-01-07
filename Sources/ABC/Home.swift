@@ -12,7 +12,7 @@ public class Home {
     public init() {}
     
     public func roomCount() -> Int {
-        5
+        6
     }
     
     public func name() -> String {
