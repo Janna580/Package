@@ -9,6 +9,8 @@ import Foundation
 
 public class Home {
     
+    public init() {}
+    
     public func roomCount() -> Int {
         5
     }
